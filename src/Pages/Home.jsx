@@ -41,7 +41,6 @@ function Home() {
                 <TopRated />
               </>
             )}
-            <div className="w-full h-64 bg-white text white "> Haloooooo</div>
           </main>
         )}
       </div>
